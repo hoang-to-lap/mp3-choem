@@ -64,6 +64,13 @@ const musics = [
     image:
       "https://scontent.fhan15-1.fna.fbcdn.net/v/t1.15752-9/290594278_708447036893883_5753933706532650095_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mbAvaQ7fh8sAX9S4uKA&_nc_ht=scontent.fhan15-1.fna&oh=03_AVIav9eC4pgSPKnfhwgOQmgm27mKzDHooweF2DL3C3YWgg&oe=62EC5B55",
   },
+  {
+    id: 7,
+    title: "EmBe",
+    file: "EmBe.mp3",
+    image:
+      "https://i.pinimg.com/originals/c7/6d/7a/c76d7a26125c24ceeda1175e0d613b1c.gif",
+  },
 ];
 /**
  * Music
