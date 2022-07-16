@@ -78,7 +78,15 @@ const musics = [
     image:
       "https://scontent.fhan5-10.fna.fbcdn.net/v/t1.15752-9/290594278_708447036893883_5753933706532650095_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mbAvaQ7fh8sAX9KJOmB&_nc_ht=scontent.fhan5-10.fna&oh=03_AVJxD_uL_aqT5X5tmK6jftoXDjYGk2nW7fnFKmufYWNBgw&oe=62EC5B55",
   },
+  {
+    id: 8,
+    title: "EmOiToiNayTaDiDau",
+    file: "EmOiToiNayTaDiDau.mp3",
+    image:
+      "https://i.pinimg.com/564x/72/79/9f/72799fb105e9b8c3002217f86b1eaee9.jpg",
+  },
 ];
+
 /**
  * Music
  * id: 1
