@@ -85,6 +85,21 @@ const musics = [
     image:
       "https://i.pinimg.com/564x/72/79/9f/72799fb105e9b8c3002217f86b1eaee9.jpg",
   },
+  {
+    id: 9,
+    title: "LapYeuEm",
+    file: "NhacKhongLoi.mp3",
+    image:
+      "https://i.pinimg.com/736x/84/4c/e6/844ce6b551406ba6e31972bc59d0c0f0.jpg",
+  },
+  {
+    id: 10,
+    title: "SaiGonHomNayMua",
+    file: "SaiGonHomNayMua.mp3",
+    image:
+      "https://i.pinimg.com/236x/f7/36/d1/f736d19144f76c7efe7c9bce923d9337.jpg",
+  },
+
 ];
 
 /**
