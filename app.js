@@ -17,14 +17,14 @@ let isRepeat = false;
 const musics = [
   {
     id: 1,
-    title: "BatNhacLen",
+    title: "Liều thuốc tâm hồn",
     file: "BatNhacLen.mp3",
     image:
     "https://scontent.fhan5-1.fna.fbcdn.net/v/t1.15752-9/289562363_772024224152194_6777128746593227904_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ClxNFCbJVyEAX8qNxs8&_nc_ht=scontent.fhan5-1.fna&oh=03_AVKmx_t8tDgdatjp2gztjMkjywLlXPl0-lHwFVZO8QO4mg&oe=62E7D201",
   },
   {
     id: 2,
-    title: "HaiMuoiHai",
+    title: "22",
     file: "HaiMuoiHai.mp3",
     image:
       "https://scontent.fhan5-1.fna.fbcdn.net/v/t1.15752-9/290667542_883080322626166_4625614368391556979_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Z3y3OlNKPH4AX9aOIdq&tn=FffqEKN0s3fNey_7&_nc_ht=scontent.fhan5-1.fna&oh=03_AVKq5ZXauPp9nvT4twHp_VIRO6JWvnIO3TG9nIoF2sHsfw&oe=62E89906",
@@ -59,45 +59,52 @@ const musics = [
   },
   {
     id: 7,
-    title: "LoiDuongMat",
+    title: "Bài này đặc biệt",
     file: "LoiDuongMat.mp3",
     image:
       "https://scontent.fhan15-1.fna.fbcdn.net/v/t1.15752-9/290594278_708447036893883_5753933706532650095_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mbAvaQ7fh8sAX9S4uKA&_nc_ht=scontent.fhan15-1.fna&oh=03_AVIav9eC4pgSPKnfhwgOQmgm27mKzDHooweF2DL3C3YWgg&oe=62EC5B55",
   },
   {
     id: 7,
-    title: "EmBe",
+    title: "BaBy",
     file: "EmBe.mp3",
     image:
       "https://i.pinimg.com/originals/c7/6d/7a/c76d7a26125c24ceeda1175e0d613b1c.gif",
   },
   {
     id: 7,
-    title: "HenEmDuoiAnhTrang",
+    title: "Hẹn em dưới ánh trăng",
     file: "HenEm.mp3",
     image:
       "https://scontent.fhan5-10.fna.fbcdn.net/v/t1.15752-9/290594278_708447036893883_5753933706532650095_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mbAvaQ7fh8sAX9KJOmB&_nc_ht=scontent.fhan5-10.fna&oh=03_AVJxD_uL_aqT5X5tmK6jftoXDjYGk2nW7fnFKmufYWNBgw&oe=62EC5B55",
   },
   {
     id: 8,
-    title: "EmOiToiNayTaDiDau",
+    title: "Tối nay đi đâu nhờ",
     file: "EmOiToiNayTaDiDau.mp3",
     image:
       "https://i.pinimg.com/564x/72/79/9f/72799fb105e9b8c3002217f86b1eaee9.jpg",
   },
   {
     id: 9,
-    title: "LapYeuEm",
+    title: "Bai Nay Khong Biet Ten HjHj",
     file: "NhacKhongLoi.mp3",
     image:
       "https://i.pinimg.com/736x/84/4c/e6/844ce6b551406ba6e31972bc59d0c0f0.jpg",
   },
   {
     id: 10,
-    title: "SaiGonHomNayMua",
+    title: "Bài này nghe lúc trời mưa nhé !",
     file: "SaiGonHomNayMua.mp3",
     image:
       "https://i.pinimg.com/236x/f7/36/d1/f736d19144f76c7efe7c9bce923d9337.jpg",
+  },
+  {
+    id: 11,
+    title: "Bài này của phương ly lập thích nghe th",
+    file: "ThichThich.mp3",
+    image:
+      "https://i.pinimg.com/564x/5f/a5/68/5fa5681462ac8e5e9e982b92f3d0ebd9.jpg",
   },
 
 ];
