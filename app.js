@@ -106,7 +106,13 @@ const musics = [
     image:
       "https://i.pinimg.com/564x/5f/a5/68/5fa5681462ac8e5e9e982b92f3d0ebd9.jpg",
   },
-
+  {
+    id: 12,
+    title: "Bài này là Last Call",
+    file: "LastCall.mp3",
+    image:
+      "https://i.pinimg.com/236x/9c/a8/50/9ca850397b2c7d0d5115dffb52587bf2.jpg",
+  },
 ];
 
 /**
